@@ -11,24 +11,42 @@
  */
 class FindElements {
 public:
+    TreeNode* newRoot = new TreeNode();
+
+    void recoverBtree(TreeNode* root,TreeNode* newRoot){
+        if(!root->left && !root->right){
+            return;
+        }
+        if(root->left != nullptr){
+            newRoot->left = new TreeNode(2*newRoot->val + 1);
+            recoverBtree(root->left, newRoot->left);
+        }
+        if(root->right != nullptr){
+            newRoot->right = new TreeNode(2*newRoot->val + 2);
+            recoverBtree(root->right,newRoot->right);
+        }
+    }
+
     FindElements(TreeNode* root) {
-        dfs(root,0);
+        recoverBtree(root,newRoot);
     }
     
-    bool find(int target) {
-        return node.count(target) > 0;
+    bool search(TreeNode* root,int target){
+        if(!root){
+            return false;
+        }
+        if(root->val == target){
+            return true;
+        }
+        bool left = search(root->left,target);
+        bool right = search(root->right, target);
+
+        return left || right;
     }
 
-    private :
-        unordered_set<int> node;
-
-        void dfs(TreeNode* currNode, int val){
-            if(!currNode)
-                return;
-            node.insert(val);
-            dfs(currNode->left,2*val +1);
-            dfs(currNode->right,2*val +2);
-        }
+    bool find(int target) {
+        return search(newRoot, target);
+    }
 };
 
 /**
