@@ -12,17 +12,20 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0404-sum-of-left-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0404-sum-of-left-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Design
@@ -32,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Array
