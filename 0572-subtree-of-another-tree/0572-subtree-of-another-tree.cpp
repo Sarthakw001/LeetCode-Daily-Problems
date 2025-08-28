@@ -10,7 +10,6 @@
  * };
  */
 class Solution {
-    bool ans = false;
 public:
     bool sameTree(TreeNode* p, TreeNode* q){
        // Base Case
@@ -33,6 +32,6 @@ public:
         bool left = isSubtree(root->left,subRoot);
         bool right = isSubtree(root->right,subRoot);
 
-        return ans || left || right;
+        return left || right;
     }
 };
