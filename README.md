@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0027-remove-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2107-find-unique-binary-string](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2107-find-unique-binary-string) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0572-subtree-of-another-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
