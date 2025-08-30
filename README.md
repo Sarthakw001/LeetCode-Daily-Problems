@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2481-strictly-palindromic-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
