@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2481-strictly-palindromic-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2481-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,4 +101,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0027-remove-element) |
+| [2481-strictly-palindromic-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2481-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
