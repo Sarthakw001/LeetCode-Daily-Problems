@@ -12,11 +12,12 @@
 class Solution {
 public:
     TreeNode* util(vector<int>& nums,int low,int high){
-        if(low > high)
-            return nullptr;
+        // Base Case
+        if(low > high) return nullptr;
+        // Recursive Case
         int mid = low + (high-low) / 2;
         TreeNode* root = new TreeNode(nums[mid]);
-        root->left = util(nums,low, mid-1);
+        root->left = util(nums,low,mid-1);
         root->right = util(nums,mid+1,high);
         return root;
     }
