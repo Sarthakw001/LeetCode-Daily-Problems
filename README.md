@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0027-remove-element) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0027-remove-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2481-strictly-palindromic-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2481-strictly-palindromic-number) |
@@ -136,5 +138,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0018-4sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
