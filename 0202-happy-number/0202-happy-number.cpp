@@ -1,18 +1,21 @@
 class Solution {
 public:
+    int sumOfSquare(int n){
+        int total = 0;
+        while(n!=0){
+            int digit = n % 10;
+            total += digit * digit;
+            n = n/10;
+        }
+        return total;
+    }
     bool isHappy(int n) {
-        unordered_set<int> st;
-
-        while(n != 1){
-            if(st.count(n)) return false;
-            st.insert(n);
-            long long sum = 0,temp = n;
-            while(temp!=0){
-                int x = temp%10;
-                sum += (long long) x * x;
-                temp = temp/10;
-            }
-            n = sum;
+        int fast = n, slow = n;
+        while(1){
+            slow = sumOfSquare(slow);
+            fast = sumOfSquare(sumOfSquare(fast));
+            if(fast == 1 || slow == 1) return true;
+            if(fast == slow) return false;
         }
         return true;
     }
