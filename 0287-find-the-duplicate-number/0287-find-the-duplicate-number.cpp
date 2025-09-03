@@ -9,11 +9,10 @@ public:
             if(slow == fast) break;
         }
         slow = nums[0];
-        while(1){
-            if(slow == fast) return slow;
+        while(slow != fast){
             slow = nums[slow];
             fast = nums[fast];
         }
-        return 0;
+        return slow;
     }
 };
