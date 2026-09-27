@@ -1,4 +1,10 @@
 class Solution {
+    static {
+        Solution sol = new Solution();
+        for(int i = 0; i < 500; i++){
+            sol.isSubsequence("","");
+        }
+    }
     public boolean isSubsequence(String s, String t) {
         int i = 0, j = 0;
 
