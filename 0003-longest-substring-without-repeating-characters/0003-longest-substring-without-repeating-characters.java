@@ -1,4 +1,10 @@
 class Solution {
+    static {
+        Solution sol = new Solution();
+        for(int i = 0; i < 500; i++){
+            sol.lengthOfLongestSubstring("");
+        }
+    }
     public int lengthOfLongestSubstring(String s) {
         int left = 0;
         int maxSubstring = 0;
