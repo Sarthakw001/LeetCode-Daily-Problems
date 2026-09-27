@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0811-subdomain-visit-count](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0811-subdomain-visit-count) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0917-boats-to-save-people](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1019-squares-of-a-sorted-array) |
