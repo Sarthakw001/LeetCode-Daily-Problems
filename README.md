@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0056-merge-intervals) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0162-find-peak-element) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0056-merge-intervals) |
 | [0917-boats-to-save-people](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0394-decode-string) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
