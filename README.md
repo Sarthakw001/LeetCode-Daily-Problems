@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0435-non-overlapping-intervals](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0739-daily-temperatures) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0435-non-overlapping-intervals) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Prefix Sum
 |  |
@@ -190,12 +192,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0917-boats-to-save-people](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0917-boats-to-save-people](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0917-boats-to-save-people) |
 ## Bit Manipulation
 |  |
