@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0057-insert-interval) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0162-find-peak-element) |
