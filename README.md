@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0739-daily-temperatures) |
 | [0811-subdomain-visit-count](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0811-subdomain-visit-count) |
 | [0917-boats-to-save-people](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0917-boats-to-save-people) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0704-binary-search](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0704-binary-search) |
 | [0975-range-sum-of-bst](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0975-range-sum-of-bst) |
 ## Sorting
 |  |
