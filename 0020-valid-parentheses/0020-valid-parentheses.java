@@ -1,10 +1,11 @@
 class Solution {
     static{
         Solution obj = new Solution();
-        for(int i=0;i<500;i++)
+        for(int i=0;i<=100;i++)
             obj.isValid("");
     }
     public boolean isValid(String s) {
+        if (s.length() % 2 != 0) return false;
         Deque<Character> stack = new ArrayDeque<>();
         for(char c:s.toCharArray()){
             if(c == '(' || c == '[' || c == '{')
