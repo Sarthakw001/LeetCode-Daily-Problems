@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0283-move-zeroes) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
