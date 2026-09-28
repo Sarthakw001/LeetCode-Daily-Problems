@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0283-move-zeroes) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0202-happy-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2481-strictly-palindromic-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2481-strictly-palindromic-number) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
 | ------- |
