@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0617-merge-two-binary-trees) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -244,5 +247,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0733-flood-fill) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
