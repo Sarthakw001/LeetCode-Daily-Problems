@@ -19,11 +19,11 @@ class Node {
 */
 
 class Solution {
-    static{
-        Solution obj = new Solution();
-        for(int i=0;i<500;i++)
-            obj.cloneGraph(new Node());
-    }
+    // static{
+    //     Solution obj = new Solution();
+    //     for(int i=0;i<500;i++)
+    //         obj.cloneGraph(new Node());
+    // }
     Map<Node, Node> map = new HashMap<>();
     public Node cloneGraph(Node node) {
         if (node == null)
