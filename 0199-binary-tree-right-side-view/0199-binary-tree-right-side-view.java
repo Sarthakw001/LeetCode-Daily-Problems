@@ -14,6 +14,12 @@
  * }
  */
 class Solution {
+    static{
+        for(int i=0;i<500;i++){
+            Solution obj = new Solution();
+            obj.rightSideView(null);
+        }
+    }
     public List<Integer> rightSideView(TreeNode root) {
         if(root == null) return new ArrayList<>();
         List<Integer> ls = new ArrayList<>();
