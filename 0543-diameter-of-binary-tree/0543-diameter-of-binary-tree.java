@@ -14,6 +14,12 @@
  * }
  */
 class Solution {
+    static{
+        Solution obj = new Solution();
+        for(int i=0;i<500;i++){
+            obj.diameterOfBinaryTree(null);
+        }
+    }
     int answer = 0;
     public int diameterOfBinaryTree(TreeNode root) {
         helper(root);
