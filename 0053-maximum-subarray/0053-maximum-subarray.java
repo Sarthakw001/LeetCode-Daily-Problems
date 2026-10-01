@@ -1,10 +1,10 @@
 class Solution {
-    static{
-        for(int i=0;i<500;i++){
-            Solution obj = new Solution();
-            obj.maxSubArray(new int[0]);
-        }
-    }
+    // static{
+    //     for(int i=0;i<500;i++){
+    //         Solution obj = new Solution();
+    //         obj.maxSubArray(new int[0]);
+    //     }
+    // }
     public int maxSubArray(int[] nums) {
         int maxSum = Integer.MIN_VALUE;
         int currSum = 0;
