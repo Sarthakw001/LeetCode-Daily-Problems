@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0811-subdomain-visit-count](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0811-subdomain-visit-count) |
 | [0917-boats-to-save-people](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0973-k-closest-points-to-origin](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0973-k-closest-points-to-origin](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Graph
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0202-happy-number) |
+| [0973-k-closest-points-to-origin](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2481-strictly-palindromic-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2481-strictly-palindromic-number) |
 ## Dynamic Programming
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0917-boats-to-save-people](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0917-boats-to-save-people) |
+| [0973-k-closest-points-to-origin](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -308,8 +312,18 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
