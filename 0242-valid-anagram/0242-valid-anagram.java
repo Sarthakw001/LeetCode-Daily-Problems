@@ -9,15 +9,13 @@ class Solution {
         for(char c:s.toCharArray()){
             if(mp.containsKey(c)){
                 mp.put(c,mp.get(c)-1);
-            }else{
-                return false;
+                if(mp.get(c) == 0)
+                    mp.remove(c);
             }
+            else
+                return false;
         }
 
-        for(Map.Entry<Character,Integer> entry:mp.entrySet()){
-            if(entry.getValue() < 0) return false;
-            if(entry.getValue() > 0) return false;
-        }
-        return true;
+        return mp.size() > 0 ? false : true;
     }
 }
