@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0811-subdomain-visit-count](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0811-subdomain-visit-count) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0394-decode-string) |
 | [0811-subdomain-visit-count](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0811-subdomain-visit-count) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0917-boats-to-save-people](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0917-boats-to-save-people) |
