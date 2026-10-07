@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0739-daily-temperatures) |
 | [0811-subdomain-visit-count](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0811-subdomain-visit-count) |
+| [0875-koko-eating-bananas](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0875-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0973-k-closest-points-to-origin](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0973-k-closest-points-to-origin) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0501-find-mode-in-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0704-binary-search](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0875-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0975-range-sum-of-bst) |
 ## Sorting
 |  |
