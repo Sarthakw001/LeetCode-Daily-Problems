@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0394-decode-string](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0394-decode-string) |
 ## Quicksort
 |  |
@@ -370,4 +371,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
