@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0200-number-of-islands) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0200-number-of-islands) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
