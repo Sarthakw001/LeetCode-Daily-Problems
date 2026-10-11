@@ -5,36 +5,31 @@ class Solution {
             obj.topKFrequent(new int[0],0);
         }
     }
-    class Pair{
+    private class Pair{
         int val;
-        int count;
-        Pair(int val,int count){
+        int freq;
+        Pair(int val,int freq){
             this.val = val;
-            this.count = count;
+            this.freq = freq;
         }
     }
     public int[] topKFrequent(int[] nums, int k) {
-        if(nums.length == 0) return new int[0];
         Map<Integer,Integer> mp = new HashMap<>();
-        for(int i=0;i<nums.length;i++)
-            mp.put(nums[i],mp.getOrDefault(nums[i],0)+1);
+        Queue<Pair> pq = new PriorityQueue<>((a,b) -> Integer.compare(a.freq,b.freq));
 
-        PriorityQueue<Pair> pq = new PriorityQueue<>(
-            (a,b) -> Integer.compare(a.count,b.count)
-        );
-
+        for(int num:nums)
+            mp.put(num,mp.getOrDefault(num,0)+1);
+        
         for(Map.Entry<Integer,Integer> entry:mp.entrySet()){
             pq.offer(new Pair(entry.getKey(),entry.getValue()));
             if(pq.size() > k)
                 pq.poll();
         }
 
-        int[] kFreqElement = new int[pq.size()];
-        int i = 0;
+        int[] ans =new int[k];
         while(!pq.isEmpty()){
-            kFreqElement[i++] = pq.peek().val;
-            pq.poll();
+            ans[--k] = pq.poll().val;
         }
-        return kFreqElement;
+        return ans;
     }
 }
