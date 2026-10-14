@@ -9,8 +9,8 @@ class Solution {
             }
         }
 
+        int[] visited = new int[graph.length];
         for(int i=0;i<graph.length;i++){
-            int[] visited = new int[graph.length];
             dfs(i,graph,safeNodes,visited);
         }
         List<Integer> safeNode = new ArrayList<>();
