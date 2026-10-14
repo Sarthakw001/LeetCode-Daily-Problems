@@ -1,37 +1,35 @@
 class Solution {
-    List<Integer>[] graph;
-    int[] state;
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        graph = new ArrayList[numCourses];
-        state = new int[numCourses];
-
+        List<List<Integer>> graph = new ArrayList<>();
+        int[] indegree = new int[numCourses];
         for(int i=0;i<numCourses;i++)
-            graph[i]=new ArrayList<>();
+            graph.add(new ArrayList<>());
 
-        for(int[] preRequisite:prerequisites){
-            int course = preRequisite[0];
-            int preRequisiteCourse = preRequisite[1];
+        for(int[] pre:prerequisites){
+            int course = pre[0];
+            int prerequisite = pre[1];
 
-            graph[preRequisiteCourse].add(course);
+            graph.get(prerequisite).add(course);
+            indegree[course]++;
         }
 
+        Queue<Integer> q = new ArrayDeque<>();
         for(int i=0;i<numCourses;i++){
-            if(!dfs(i))
-                return false;
+            if(indegree[i] == 0)
+                q.offer(i);
         }
-        return true;
-    }
 
-    private boolean dfs(int course){
-        if(state[course] == 1) return false;
-        if(state[course] == 2) return true;
+        int processed = 0;
+        while(!q.isEmpty()){
+            int node = q.poll();
+            processed++;
 
-        state[course] = 1;
-        for(int next:graph[course]){
-            if(!dfs(next))
-                return false;
+            for(int neighbour : graph.get(node)){
+                indegree[neighbour]--;
+                if(indegree[neighbour] == 0)
+                    q.offer(neighbour);
+            }
         }
-        state[course] = 2;
-        return true;
+        return processed == numCourses;
     }
 }
