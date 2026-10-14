@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0975-range-sum-of-bst](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0975-range-sum-of-bst) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0994-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -335,12 +337,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -391,4 +395,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
