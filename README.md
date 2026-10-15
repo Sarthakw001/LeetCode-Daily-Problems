@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0975-range-sum-of-bst](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0975-range-sum-of-bst) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0994-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1046-last-stone-weight) |
 ## Quickselect
@@ -403,4 +407,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
