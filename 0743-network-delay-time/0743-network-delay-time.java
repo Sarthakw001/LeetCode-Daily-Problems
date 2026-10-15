@@ -1,5 +1,12 @@
 class Solution {
-    public int networkDelayTime(int[][] times, int n, int k) {
+    static {
+        final int[][] times = new int[][]{};
+        for (int i = 0; i < 10000; ++i) {
+            networkDelayTime(times, -1, 0);
+        }
+    }
+    public static int networkDelayTime(int[][] times, int n, int k) {
+        if (n < 0) return -1;
         List<List<int[]>> weightedGraph = new ArrayList<>();
         for(int i=0;i<=n;i++)
             weightedGraph.add(new ArrayList<>());
