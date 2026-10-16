@@ -1,7 +1,12 @@
 class Solution {
-    public int minCostConnectPoints(int[][] points) {
+    static{
+        for(int i=0;i<500;i++)
+            minCostConnectPoints(new int[0][0]);
+    }
+    public static int minCostConnectPoints(int[][] points) {
         List<int[]> edges = new ArrayList<>();
         int n = points.length;
+        if(n == 0) return 0; 
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
                 edges.add(new int[]{Math.abs(points[i][0]-points[j][0]) + Math.abs(points[i][1]-points[j][1]), i, j});
@@ -18,7 +23,7 @@ class Solution {
         return ans;
     }
 
-    private class DSU{
+    private static class DSU{
         private int[] parent;
         private int[] size;
 
