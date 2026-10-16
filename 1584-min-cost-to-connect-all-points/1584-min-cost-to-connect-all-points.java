@@ -46,11 +46,11 @@ class Solution {
             int rootB = find(b);
 
             if(rootA == rootB) return false;
-            if(size[rootA] < size[rootB]){
-                int temp = rootA;
-                rootA = rootB;
-                rootB = temp;
-            }
+            // if(size[rootA] < size[rootB]){
+            //     int temp = rootA;
+            //     rootA = rootB;
+            //     rootB = temp;
+            // }
             parent[rootB] = rootA;
             size[rootA] += size[rootB];
             return true;
