@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1046-last-stone-weight) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2107-find-unique-binary-string](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2107-find-unique-binary-string) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0695-max-area-of-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0802-find-eventual-safe-states) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -419,4 +422,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0743-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
