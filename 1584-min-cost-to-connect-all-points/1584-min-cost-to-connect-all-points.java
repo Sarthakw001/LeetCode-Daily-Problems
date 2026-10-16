@@ -46,13 +46,8 @@ class Solution {
             int rootB = find(b);
 
             if(rootA == rootB) return false;
-            // if(size[rootA] < size[rootB]){
-            //     int temp = rootA;
-            //     rootA = rootB;
-            //     rootB = temp;
-            // }
-            parent[rootB] = rootA;
-            size[rootA] += size[rootB];
+            parent[Math.min(rootA,rootB)] = Math.max(rootA,rootB);
+            size[Math.max(rootA,rootB)] += size[Math.min(rootA,rootB)];
             return true;
         }
     }
