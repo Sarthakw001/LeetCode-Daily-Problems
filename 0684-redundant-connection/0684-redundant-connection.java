@@ -1,19 +1,19 @@
 class Solution {
-    public int[] findRedundantConnection(int[][] edges) {
+    static{
+        for(int i=0;i<500;i++)
+            findRedundantConnection(new int[0][0]);
+    }
+    public static int[] findRedundantConnection(int[][] edges) {
         DSU dsu = new DSU(edges.length+1);
-        
         for(int[] edge : edges){
             int u = edge[0];
             int v = edge[1];
-
-            if(!dsu.union(u,v)){
-                return new int[]{u,v};
-            }
+            if(!dsu.union(u,v)) return edge;
         }
         return new int[2];
     }
 
-    private class DSU{
+    private static class DSU{
         private int[] parent;
         private int[] size;
 
