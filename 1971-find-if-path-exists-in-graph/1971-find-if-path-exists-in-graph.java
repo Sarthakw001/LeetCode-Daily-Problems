@@ -1,27 +1,51 @@
 class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
-        List<List<Integer>> graph = new ArrayList<>();
-
-        for(int i=0;i<n;i++)
-            graph.add(new ArrayList<>());
-
-        for(int[] edge:edges){
-            graph.get(edge[0]).add(edge[1]);
-            graph.get(edge[1]).add(edge[0]);
-        }
-        boolean[] visited = new boolean[n];
-        return dfs(source, destination, graph, visited);
+        DSU dsu = new DSU(n);
+        for(int[] edge:edges)
+            dsu.union(edge[0],edge[1]);
+        return dsu.checkPath(source,destination);
     }
 
-    private boolean dfs(int source, int destinaiton, List<List<Integer>> graph, boolean[] visited){
-        visited[source] = true;
-        if(source == destinaiton) return true;
-        for(int neighbour:graph.get(source)){
-            if(!visited[neighbour]){
-                boolean path = dfs(neighbour,destinaiton,graph,visited);
-                if(path) return true;
+    private static class DSU{
+        private int[] parent;
+        private int[] size;
+
+        DSU(int n){
+            this.parent = new int[n];
+            this.size = new int[n];
+
+            for(int i=0;i<n;i++){
+                parent[i] = i;
+                size[i] = 1;
             }
         }
-        return false;
-    } 
+
+        private int find(int x){
+            if(parent[x] == x)
+                return x;
+            return find(parent[x]);
+        }
+
+        public void union(int a, int b){
+            int rootA = find(a);
+            int rootB = find(b);
+
+            if(rootA == rootB) return;
+
+            if(size[rootA] < size[rootB]){
+                int temp = rootA;
+                rootA = rootB;
+                rootB = temp;
+            }
+
+            parent[rootB] = rootA;
+            size[rootA] += size[rootB];
+        }
+
+        public boolean checkPath(int a, int b){
+            if(find(a) == find(b))
+                return true;
+            return false;
+        }
+    }
 }
