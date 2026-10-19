@@ -1,4 +1,6 @@
 class Solution {
+
+    // Solution using, Kruskal's Algorithm
     static{
         for(int i=0;i<500;i++)
             validPath(0,new int[2][2],0,0);
