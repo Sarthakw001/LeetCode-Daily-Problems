@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-last-stone-weight](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2107-find-unique-binary-string](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2107-find-unique-binary-string) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 ## String
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0875-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0975-range-sum-of-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0917-boats-to-save-people](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0917-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |
