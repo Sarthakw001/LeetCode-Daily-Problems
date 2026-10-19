@@ -1,54 +1,46 @@
 class Solution {
-    static{
-        for(int i=0;i<500;i++)
-            minCostConnectPoints(new int[0][0]);
-    }
-    public static int minCostConnectPoints(int[][] points) {
-        List<int[]> edges = new ArrayList<>();
+    public int minCostConnectPoints(int[][] points) {
+        List<List<int[]>> graph = new ArrayList<>();
         int n = points.length;
-        if(n == 0) return 0; 
+
+        for(int i=0;i<n;i++)
+            graph.add(new ArrayList<>());
+        
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
-                edges.add(new int[]{Math.abs(points[i][0]-points[j][0]) + Math.abs(points[i][1]-points[j][1]), i, j});
-            }
-        }
-        edges.sort((a,b) -> Integer.compare(a[0],b[0]));
-        int ans = 0;
-        DSU dsu = new DSU(n);
-        for(int edge[] : edges){
-            if(dsu.union(edge[1],edge[2])){
-                ans += edge[0];
-            }
-        }
-        return ans;
-    }
-
-    private static class DSU{
-        private int[] parent;
-        private int[] size;
-
-        DSU(int n){
-            this.parent = new int[n];
-            this.size = new int[n];
-
-            for(int i=0;i<n;i++){
-                parent[i] = i;
-                size[i] = 1;
+                graph.get(i).add(new int[]{Math.abs(points[i][0] - points[j][0]) + Math.abs(points[i][1] - points[j][1]),j});
+                graph.get(j).add(new int[]{Math.abs(points[i][0] - points[j][0]) + Math.abs(points[i][1] - points[j][1]),i});
             }
         }
 
-        private int find(int x){
-            return parent[x] == x ? x : find(parent[x]);
-        }
+        PriorityQueue<int[]> pq = new PriorityQueue<>(
+           (a, b) -> Integer.compare(a[0], b[0])
+        );
         
-        public boolean union(int a, int b){
-            int rootA = find(a);
-            int rootB = find(b);
+        boolean[] visited = new boolean[n];
 
-            if(rootA == rootB) return false;
-            parent[Math.min(rootA,rootB)] = Math.max(rootA,rootB);
-            size[Math.max(rootA,rootB)] += size[Math.min(rootA,rootB)];
-            return true;
+        pq.offer(new int[]{0,0});
+        int minManhattanDistance = 0;
+
+        while(!pq.isEmpty()){
+            int[] current = pq.poll();
+            int manhattanDistance = current[0];
+            int node = current[1];
+
+            if(visited[node]) continue;
+
+            visited[node] = true;
+            minManhattanDistance += manhattanDistance;
+
+            for(int[] edge : graph.get(node)){
+                int neighbour = edge[1];
+                int dist = edge[0];
+
+                if(!visited[neighbour]){
+                    pq.offer(new int[]{dist,neighbour});
+                }
+            }
         }
+        return minManhattanDistance;
     }
 }
