@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0202-happy-number) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0392-is-subsequence) |
@@ -449,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
