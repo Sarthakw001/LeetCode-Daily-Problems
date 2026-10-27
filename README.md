@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0394-decode-string) |
 | [0811-subdomain-visit-count](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0811-subdomain-visit-count) |
+| [1143-longest-common-subsequence](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1143-longest-common-subsequence) |
 | [2107-find-unique-binary-string](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2107-find-unique-binary-string) |
 ## Backtracking
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1143-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Prefix Sum
 |  |
@@ -478,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0322-coin-change) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
