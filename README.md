@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1046-last-stone-weight) |
+| [1470-shuffle-the-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1470-shuffle-the-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1929-concatenation-of-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1929-concatenation-of-array) |
