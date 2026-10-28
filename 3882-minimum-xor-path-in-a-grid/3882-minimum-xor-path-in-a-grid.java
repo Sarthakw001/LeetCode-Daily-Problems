@@ -1,8 +1,8 @@
-import java.util.Arrays;
+import java.util.*;
 
 class Solution {
-    private int[][][] dp;
     private int minXor = Integer.MAX_VALUE;
+    private Set<Integer> visited;
 
     private void findPath(int i, int j, int[][] grid, int currXor) {
         int m = grid.length;
@@ -19,29 +19,20 @@ class Solution {
             return;
         }
 
-        if (dp[i][j][currXor] != -1) {
+        int key = (i * n + j) * 1024 + currXor;
+
+        if (!visited.add(key)) {
             return;
         }
-
-        dp[i][j][currXor] = 1;
 
         findPath(i + 1, j, grid, currXor);
         findPath(i, j + 1, grid, currXor);
     }
 
     public int minCost(int[][] grid) {
-        int m = grid.length;
-        int n = grid[0].length;
-
-        dp = new int[m][n][1024];
-
-        for (int[][] row : dp) {
-            for (int[] cell : row) {
-                Arrays.fill(cell, -1);
-            }
-        }
-
         minXor = Integer.MAX_VALUE;
+        visited = new HashSet<>();
+
         findPath(0, 0, grid, 0);
 
         return minXor;
