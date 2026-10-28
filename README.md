@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0392-is-subsequence) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0392-is-subsequence) |
