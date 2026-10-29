@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0287-find-the-duplicate-number) |
