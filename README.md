@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2107-find-unique-binary-string](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2107-find-unique-binary-string) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2481-strictly-palindromic-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/2481-strictly-palindromic-number) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
