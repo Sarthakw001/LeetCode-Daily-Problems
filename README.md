@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1019-squares-of-a-sorted-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1046-last-stone-weight) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1470-shuffle-the-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/0739-daily-temperatures) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Sarthakw001/LeetCode-Daily-Problems/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
 |  |
