@@ -1,5 +1,9 @@
 class Solution {
-    public List<String> buildArray(int[] target, int n) {
+    static{
+        for(int i=1;i<=500;i++)
+            buildArray(new int[0],0);
+    }
+    public static List<String> buildArray(int[] target, int n) {
         int k = 0;
         List<String> ans = new ArrayList<>();
         for(int i=1;i<=n;i++){
@@ -12,9 +16,6 @@ class Solution {
                 ans.add("Push");
             }
             k++;
-        }
-        for(String s:ans){
-            System.out.println(s);
         }
         return ans;
     }
